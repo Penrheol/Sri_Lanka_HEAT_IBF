@@ -1,5 +1,6 @@
 These files provide the following:
-Interactive HTML dashboard sri_lanka_heat_tool.html – open in any browser. NO installation needed. Three tabs:
+
+Interactive HTML dashboard sri_lanka_heat_tool.html – open in any browser. No installation needed. Three tabs:
 Threshold Calculator: adjustable Bayesian loss parameters per sector (health, agriculture, labour), live probability sliders representing the ensemble forecast, and an optimal Watch/Alert/Warning decision that updates in real time along with the full loss matrix
 Advisory Generator: enter forecast Heat Index, Tmax, and RH; the tool outputs the warning level, impact statement, sector-specific action cards drawn from the Rogers (2026) prescriptive models, and a draft advisory text ready to copy or print
 Post-Event Review: a structured FORIN matrix (four EW4All pillars × four lenses) for recording what happened, plus impact tables, lessons fields, and a future climate filter — exportable as a plain-text summary
